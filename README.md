@@ -53,6 +53,6 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
 ## Acknowledgments
-**NASA**: For providing the APOD API.
-**React Community**: For the extensive documentation and resources.
-**Vite**: For the fast and efficient build tool.
+**NASA**: For providing the APOD API.<br>
+**React Community**: For the extensive documentation and resources.<br>
+**Vite**: For the fast and efficient build tool.<br>
